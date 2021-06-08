@@ -40,7 +40,7 @@
              <div class="c">
                  <h2>Projects</h2>
                  <h3>Health care management system[MINI-PROJECT] (2020)</h3>
-                 <p>Health care management system is a web application developed for hospit</p>
+                 <p>Health care management system is a web application developed for hospital</p>
                  <h3>Tribute to S P Balasubramaniyam webdesign (2021)</h3>
                  <p>Web development internship project that was developed using Html and Css</p>
                     <h3>Each One Teach One webdesign (2021)</h3>

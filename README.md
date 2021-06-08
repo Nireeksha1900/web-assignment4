@@ -50,11 +50,11 @@
                         <div class="d">
                             <h2>Interests</h2>
                             <ol>
-                                <li>Dance</li><br><br>
-                                <li>TV Shows</li><br><br>
-                                <li>Badminton</li><br><br>
-                                <li>Quiz</li><br><br>
-                                <li>Technology</li><br><br>
+                                <li>Dance</li><br>
+                                <li>TV Shows</li><br>
+                                <li>Badminton</li><br>
+                                <li>Quiz</li><br>
+                                <li>Technology</li><br>
                             </ol>
              </div>
     </body>
